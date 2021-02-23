@@ -1,2 +1,2 @@
 # Memorize
-Basically a meme game using SwiftUI &amp; MVVM.
+A card game using MVVM & Swift UI
